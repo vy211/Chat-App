@@ -1,5 +1,5 @@
 ## Chat-App
-A simple GUI chat app in python.
+A simple GUI IRC like chat app in python.
 
 Steps to run this in your PC.
 
