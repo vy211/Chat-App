@@ -11,6 +11,7 @@ def receive():
         try:
             msg = client_socket.recv(BUFSIZ).decode("utf8")
             msg_list.insert(tkinter.END, msg)
+            msg_list.see(tkinter.END)
         except OSError:  
             break
 
