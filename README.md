@@ -24,5 +24,5 @@ Steps to run this in your PC.
 
 ### For Windows
 
-Please install python3 and it's tk Module through this link.
+Please install python3 and it's tk Module through this link.  
 https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-windows-10
