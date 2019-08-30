@@ -21,8 +21,3 @@ Steps to run this in your PC.
 1. Run ```python3 client.py```.
 2. Enter the IP address of server when asked in terminal.
 3. Done.
-
-### For Windows
-
-Please install python3 and it's tk Module through this link.  
-https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-windows-10
